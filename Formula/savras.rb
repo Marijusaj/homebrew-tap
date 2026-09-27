@@ -1,13 +1,13 @@
 # The formula published to Marijusaj/homebrew-tap as Formula/savras.rb.
 #
-# This copy is a template: the release workflow fills in 0.1.7 and 5773906deadcb98b6300209dd200d79e699dcf522c8df5d77d014cfcadc18abf
+# This copy is a template: the release workflow fills in 0.1.9 and d232cc895f6f85c491650e7aa100753b6018ee6ad3599d410189a04c032ec2a0
 # from the tag it was pushed for, and pushes the result to the tap. Edit it
 # here, never in the tap — the next release would overwrite the tap's copy.
 class Savras < Formula
   desc "Side panel that sees every Claude Code session you have running"
   homepage "https://github.com/Marijusaj/savras"
-  url "https://github.com/Marijusaj/savras/archive/refs/tags/v0.1.7.tar.gz"
-  sha256 "5773906deadcb98b6300209dd200d79e699dcf522c8df5d77d014cfcadc18abf"
+  url "https://github.com/Marijusaj/savras/archive/refs/tags/v0.1.9.tar.gz"
+  sha256 "d232cc895f6f85c491650e7aa100753b6018ee6ad3599d410189a04c032ec2a0"
   license "MIT"
   head "https://github.com/Marijusaj/savras.git", branch: "main"
 
